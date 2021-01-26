@@ -203,7 +203,7 @@ function draw_boid(b)
  line(bx,by,brx,bry,13)
  line(bx,by,blx,bly,13)
  line(brx,bry,blx,bly,13)
- pset(bx,by,12)
+ pset(bx,by,8)
 end
 -->8
 --vector math
